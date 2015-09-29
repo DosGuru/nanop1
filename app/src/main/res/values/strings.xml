@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yay Movies!</string>
+    <string name="action_sortpopular">Sort by Popularity</string>
+    <string name="action_sortrating">Sort by Highest Rating</string>
+    <string name="action_settings">Settings</string>
+    <string name="apikey"></string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="param_popular">popularity.desc</string>
+    <string name="param_rating">vote_average.desc</string>
+</resources>
